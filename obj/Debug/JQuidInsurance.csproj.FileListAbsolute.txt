@@ -1,0 +1,52 @@
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\bin\Debug\JQuidInsurance.exe
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\bin\Debug\JQuidInsurance.pdb
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.MainForm.resources
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.GenerateResource.Cache
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.exe
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.pdb
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.Registration.resources
+C:\Users\a\Documents\SharpDevelop Projects\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.ThankYou.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\bin\Debug\JQuidInsurance.exe
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\bin\Debug\JQuidInsurance.pdb
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csprojAssemblyReference.cache
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.MainForm.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.Registration.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.ThankYou.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.GenerateResource.cache
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.exe
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.pdb
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\bin\Debug\JQuidInsurance.exe
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\bin\Debug\JQuidInsurance.pdb
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\bin\Debug\MySql.Data.dll
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csprojAssemblyReference.cache
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.MainForm.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.Properties.Resources.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.Registration.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.ThankYou.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.GenerateResource.cache
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.CopyComplete
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.exe
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.pdb
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.Benefits.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.InsuranceType.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.ManageClients.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.EditClientInfo.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.FileInsClaim.resources
+C:\Users\user\Downloads\JQuidInsurance\JQuidInsurance\obj\Debug\JQuidInsurance.PayInsurance.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.manageBenefits.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.manageClientsInfo.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.manageClaims.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.manageInsuranceType.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.MainForm.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.clientsPanel.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.collections.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.Properties.Resources.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.addInsurance.resources
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.GenerateResource.cache
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.CoreCompileInputs.cache
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\bin\Debug\JQuidInsurance.exe
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\bin\Debug\JQuidInsurance.pdb
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.csproj.CopyComplete
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.exe
+C:\Users\maris\OneDrive\Documents\C# projects\JQuidInsurance\obj\Debug\JQuidInsurance.pdb
